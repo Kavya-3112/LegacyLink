@@ -1,0 +1,11 @@
+.stories-container {
+	padding: 2rem;
+}
+
+.stories-container h1 {
+	color: #2f3b52;
+}
+
+.stories-container p {
+	color: #666;
+}

@@ -1,0 +1,12 @@
+.directory-container {
+	padding: 2rem;
+}
+
+.directory-container h1 {
+	color: #2f3b52;
+	margin-bottom: 1rem;
+}
+
+.directory-container p {
+	color: #666;
+}
